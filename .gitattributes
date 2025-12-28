@@ -3,3 +3,4 @@
 LICENSE linguist-documentation
 
 *.dart linguist-detectable=true
+*.kt linguist-detectable=true
